@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LearningProgrammingLanguages</string>
+    <string name="welcome">Добро пожаловать</string>
+    <string name="learn_languages">в этом приложении вы освоите базовые знания в программировании на 3 языках по выбору</string>
+    <string name="begin">приступить к выбору языка</string>
+    <string name="python">Python</string>
+    <string name="programming_language">programming language</string>
+    <string name="java">Java</string>
+    <string name="c_plus_plus">C++</string>
+    <string name="test_lesson">Урок 1. Hello World.</string>
+    <string name="previous_lesson">Прошлый урок</string>
+    <string name="next_lesson">Следующий урок</string>
+    <string name="lesson_text_lesson">Текст урока...</string>
+    <string name="toast_message">Пройдите все предыдущие уроки, чтобы перейти к этому</string>
+    <string name="completed_lessons_python">Пройдено: 1 из 29 уроков</string>
+</resources>
